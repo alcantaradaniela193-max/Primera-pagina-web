@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2ee;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #2f6b2f;
+}
+
+h2 {
+    color: #3c7d3c;
+}
+
+.planta {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+img {
+    width: 250px;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
